@@ -4,7 +4,10 @@ export default {
     theme: {
         extend: {
             colors: {
-                mainColor: '#0c535d',
+                mainColor: '#000000',
+                pinkColor: '#d0b1d5',
+                gColor: '#3affba',
+                gray: '#e5c8b2',
             }
         },
     },
